@@ -1,4 +1,4 @@
-- pythom
+- python
 ```python
 print("hello world!")
 ```
